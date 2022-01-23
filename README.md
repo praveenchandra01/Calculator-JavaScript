@@ -6,4 +6,4 @@
 #### Access link : https://praveenchandra01.github.io/Calculator-JavaScript/
 ---
 ## Preview
-![](https://github.com/praveenchandra01/Pizza-Cart/blob/master/src/images/Pizza-Cart.png)
+![](https://github.com/praveenchandra01/Calculator-JavaScript/blob/master/preview.png)
